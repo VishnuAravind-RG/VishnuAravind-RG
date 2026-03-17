@@ -1,96 +1,64 @@
-# 👋 Hi, I'm Vishnu Aravind
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=20&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=35&lines=Hi+&#128075+Guys+I'm+Vishnu+Aravind+R+G;M.Sc+Theoretical+Computer+Science+%7C+&#127891+PSG+College+of+Technology;Distributed+Systems,+DB+Architecture,+and+ML+&#128187"/>
+</div>
 
-🚀 **Software Engineer | Distributed Systems | Machine Learning**
+<br/>
 
-I build **high-performance systems, data pipelines, and real-time applications** with a focus on scalability, reliability, and clean architecture.
+<div align="center">
+  <a href="https://linkedin.com/in/vishnu-aravind-rg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rgvishnuaravind@gmail.com"><img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Incoming_AI_Architect_Intern-Psiog_Digital-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project_Intern-IISC_Bangalore-0072C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seeking-Software_Engineering_Internships-00BFFF?style=for-the-badge"/>
+</div>
 
-Currently pursuing an **Integrated M.Sc in Theoretical Computer Science** at **PSG College of Technology**.
+<br/>
+<hr/>
 
-My interests live at the intersection of:
+<h3 align="center">🛠️ Tech Toolbox & Workspace</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FCDC35?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0076A8?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Dell-Inspiron_15_5510_(16GB/512GB)-0076CE?style=for-the-badge&logo=dell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OS-Windows_11_%7C_Ubuntu-E34F26?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Pixel_6-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple-iPad-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</div>
 
-- Distributed Systems
-- Database Architecture
-- Machine Learning Systems
-- Real-time Data Infrastructure
+<br/>
+<hr/>
 
----
+<h3 align="center">🔥 GitHub & LeetCode Arsenal</h3>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=VishnuAravind-RG&show_icons=true&theme=dark&include_all_commits=true&bg_color=0D1117&border_color=30363D&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuAravind-RG&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img width="500" src="https://leetcard.jacoblin.cool/rgvishnuaravind?theme=dark&font=Oxygen&ext=heatmap" />
+</div>
 
-# ⚡ Engineering Focus
+<br/>
+<hr/>
 
-🔭 **Current Work**
-- Building **fault-tolerant real-time applications**
-- Designing **low-latency ML pipelines**
-- Optimizing systems for **edge deployment**
-
-🧠 **Areas I enjoy solving problems in**
-
-- System Design  
-- Data Engineering  
-- API Architecture  
-- Real-Time Processing  
-- Algorithmic Optimization  
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### Mobile / Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
----
-
-# 📈 What I Like Building
-
-### ⚙️ Distributed Systems
-Event-driven architectures using **Kafka, Docker, and FastAPI** for scalable backend systems.
-
-### 📊 Data & Machine Learning
-Building **data pipelines and ML workflows** for predictive modeling and real-time inference.
-
-### ⚡ High-Performance Applications
-Optimizing systems for **low latency, reliability, and performance at scale**.
-
----
-
-# 🚀 Highlight Project
-
-### 📊 Real-Time Algorithmic Trading Dashboard
-
-A high-performance trading analytics system capable of:
-
-- Tracking **50+ multi-exchange equities**
-- **Sub-second price updates**
-- Real-time analytics visualization
-- Efficient streaming data processing
-
-Designed with a focus on **latency optimization and scalable architecture**.
-
----
-
-# 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnuAravind-RG&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuAravind-RG&layout=compact&theme=tokyonight)
-
----
-
-# 🤝 Let's Connect
-
-📧 **Email:** rgvishnuaravind@gmail.com  
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/vishnu-aravind-rg
-
----
-
-⭐ *I enjoy building systems that are fast, scalable, and production-ready.*
+<h3 align="center">🐍 Contribution Activity</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VishnuAravind-RG/VishnuAravind-RG/main/github-contribution-grid-snake.svg" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=VishnuAravind-RG&color=87CEEB&style=for-the-badge" alt="Profile View Counter"/>
+</div>
