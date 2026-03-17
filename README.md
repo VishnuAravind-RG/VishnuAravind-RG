@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=20&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=35&lines=Hi+&#128075+Guys+I'm+Vishnu+Aravind+R+G;M.Sc+Theoretical+Computer+Science+%7C+&#127891+PSG+College+of+Technology;Distributed+Systems,+DB+Architecture,+and+ML+&#128187"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,00BFFF,0072C6&height=250&section=header&text=Vishnu%20Aravind%20R%20G&fontSize=55&animation=fadeIn&fontAlignY=38&desc=M.Sc%20Theoretical%20Computer%20Science%20%7C%20AI%20%26%20Distributed%20Systems&descAlignY=55&descAlign=50&fontColor=ffffff"/>
 </div>
 
 <br/>
@@ -45,7 +45,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=VishnuAravind-RG&show_icons=true&theme=dark&include_all_commits=true&bg_color=0D1117&border_color=30363D&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuAravind-RG&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuAravind-RG&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -58,7 +58,7 @@
 
 <h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VishnuAravind-RG/VishnuAravind-RG/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/VishnuAravind-RG/VishnuAravind-RG/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=VishnuAravind-RG&color=87CEEB&style=for-the-badge" alt="Profile View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=VishnuAravind-RG&color=8A2BE2&style=for-the-badge" alt="Profile View Counter"/>
 </div>
