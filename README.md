@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/vishnu-aravind-rg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rgvishnuaravind@gmail.com"><img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br/><br/>
-   <<img src="https://img.shields.io/badge/Incoming_AI_Architect_Intern-Psiog_Digital-8A2BE2?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/AI_Engineer_Intern-Psiog_Digital-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Project_Intern-IISC_Bangalore-0072C6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seeking-Software_Engineering_%26_AI_Internships-00BFFF?style=for-the-badge"/>
 </div>
