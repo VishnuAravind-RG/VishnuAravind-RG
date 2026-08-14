@@ -25,6 +25,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-0076A8?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -55,6 +56,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -64,7 +66,7 @@
 
 ## Experience
 
-### AI Engineer Intern — Psiog Digital &nbsp; ![](https://img.shields.io/badge/May_2026–Present-8A2BE2?style=flat-square)
+### AI Architect Intern — Psiog Digital &nbsp; ![](https://img.shields.io/badge/May_2026–Present-8A2BE2?style=flat-square)
 - Built a **6-gate LLM extraction engine** — entity/fact extraction, contradiction detection, confidence scoring, goal alignment, relationship extraction, and fact classification.
 - Designed a **polyglot storage layer** — MongoDB as the primary fact/timeline store, PostgreSQL + Apache AGE for the decision/checkpoint graph, and ChromaDB for vector search — auto-syncing new facts only above a **0.85 confidence threshold**.
 - Built a **3-lane parallel retrieval pipeline** (Apache AGE, Cypher multi-hop queries, ChromaDB vector search) merged by a synthesis engine and delivered via Microsoft Teams.
@@ -115,7 +117,7 @@ Secure auditing pipeline using **LWE lattice commitments within Intel SGX**, mai
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## GitHub & LeetCode Arsenal
+## GitHub Stats
 
 <div align="center">
 
@@ -125,8 +127,6 @@ Secure auditing pipeline using **LWE lattice commitments within Intel SGX**, mai
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuAravind-RG&theme=dark&background=0D1117&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=a855f7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishnuAravind-RG&bg_color=0D1117&color=a855f7&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)
-
-![LeetCode](https://leetcard.jacoblin.cool/rgvishnuaravind?theme=dark&font=Oxygen&ext=heatmap)
 
 </div>
 
