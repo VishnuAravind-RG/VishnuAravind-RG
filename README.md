@@ -124,8 +124,6 @@ Secure auditing pipeline using **LWE lattice commitments within Intel SGX**, mai
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VishnuAravind-RG&show_icons=true&theme=dark&include_all_commits=true&bg_color=0D1117&border_color=30363D&hide_border=true&title_color=a855f7&icon_color=a855f7)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=VishnuAravind-RG&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&hide_border=true&title_color=a855f7)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VishnuAravind-RG&theme=dark&background=0D1117&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=a855f7)
-
 ![Activity Graph](https://github-readme-activity-graph-ten-liart.vercel.app/graph?username=VishnuAravind-RG&bg_color=0D1117&color=a855f7&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)
 
 </div>
